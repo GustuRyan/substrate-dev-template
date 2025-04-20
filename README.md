@@ -2,7 +2,13 @@
 
 <div align="center">
 
-![Polkadot Parachain Interface Logo](https://github.com/user-attachments/assets/88a8d34f-604c-45b5-9c92-cf14464a7a87)
+[![Vercel Status](https://img.shields.io/badge/Vercel-Deployed-success?logo=vercel)](https://vercel.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Nuxt](https://img.shields.io/badge/Nuxt-3.x-00DC82)
+![Vue](https://img.shields.io/badge/Vue-3.x-42b883)
+![Polkadot.js](https://img.shields.io/badge/Polkadot.js-API-e6007a)
+
+![Polkadot Parachain Interface Logo](images/heading_image.png)
 
 **A sleek, futuristic, and user-friendly interface for interacting with Substrate-based blockchains on any platform.**
 
@@ -101,7 +107,7 @@ From the homepage, use the **Network Selector** to:
 
 1. Launch Zombienet using the `pop` command.
 2. Copy the WebSocket URL from the terminal (e.g., `ws://127.0.0.1:55308`)
-3. Start the Nuxt dev server (`npm run dev`)
+3. Start the NNNuxt dev server (`npm run dev`)
 4. Input the WebSocket URL in the Network Selector to connect
 
 ---
