@@ -10,7 +10,8 @@
 
 ![Polkadot Parachain Interface Logo](images/heading_image.png)
 
-**A sleek, futuristic, and user-friendly interface for interacting with Substrate-based blockchains on any platform.**
+**A sleek, futuristic, and user-friendly interface for interacting <br/> 
+with Substrate-based blockchains on any platform.**
 
 </div>
 
