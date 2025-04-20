@@ -167,3 +167,7 @@ Special thanks to:
 - [Polkadot.js](https://polkadot.js.org/) – for the powerful API & tools
 - [Zombienet](https://docs.polkadot.com/tutorials/polkadot-sdk/testing/spawn-basic-chain/) – for enabling smooth local blockchain testing
 
+---
+
+## 🎥 Youtube Video
+- [Explanation}(https://youtu.be/-RL72qR6IZM) - for more example and explanation in this final project
